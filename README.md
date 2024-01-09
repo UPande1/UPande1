@@ -1,8 +1,12 @@
 - 👋 Hi, I’m Utkarsh Pande.
-- 👀 I’m interested in Software Developement and Web developement.
-- 🌱 I’m currently learning Data Structures and algorithms.
-- 💞️ I’m looking to collaborate on Projects on software and web developement.
+- 👀 I’m interested in Software development and Web development.
+- 🌱 I’m currently Azure Defender and Azure Sentinel.
+- 💞️ I’m looking to collaborate on software and web development projects.
+- Ask me about Javascript, Java, React JS, Node, Express, and Azure.
 - 📫 How to reach me? mail me at "utkarshpande342@gmail.com".
+
+- Contact with me:
+   
 
 <!---
 UPande1/UPande1 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
